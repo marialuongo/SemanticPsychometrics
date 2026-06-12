@@ -1,0 +1,16 @@
+# Exclude Article
+Article.docx
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Temporary Excel/Word files
+~$*.xlsx
+~$*.xls
+~$*.docx
+
+# OS files
+.DS_Store
+Thumbs.db
